@@ -1,0 +1,6 @@
+---
+- name: Up & running
+  tasks:
+    - name: Up Message
+      debug:
+	msg: "Up & Running"
